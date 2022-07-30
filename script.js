@@ -14,6 +14,7 @@ async function getAllCharacters(){
 
             <div>
                 <h2 class="name-character">${personagens.name}</h2>
+                <h4>Filmes</h4>
                 <p class="species-character">${personagens.films}</p>
                 <h4>Longas Metragens</h4>
                 <p class="species-character">${personagens.shortFilms}</p>
